@@ -1,0 +1,54 @@
+  - name: 体育场馆数据服务平台
+    url: http://www.cnsdc.org.cn/
+    img: /image/cnsdc.jpg
+    description: “体育场馆数据平台”是基于开放共享的理念，以场馆数据为基础， 以技术为手段，以提供数据服务为主要方向，为群众（to C）、场馆主和企业（to B）、协会和政府（to G）提供精准的数据服务， 以数据智能应用生态为场馆赋能，引领体育场馆逐步实现以数据为驱动力的数字化转型。
+
+  - name: 中国体育场馆协会
+    url: http://www.csva.org.cn/
+    img: /image/csva.jpg
+    description: 中国体育场馆协会（以下简称“协会”）于1989年1月10日在民政部注册登记，是由开展体育场馆有关业务的组织和个人自愿组成的非营利性社会团体法人，是中华人民共和国境内唯一的全国性体育场馆社会组织，是代表中国参加相应国际体育场馆组织和活动的唯一合法组织,其宗旨是团结全国体育场馆工作者，推进体育场馆工作的全面、深入开展，为普及体育运动，促进体育产业发展服务。协会会员包括团体会员、单位会员和个人会员。协会接受中央和国家机关工委领导、国家体育总局业务指导监督。
+
+  - name: 跑in中国
+    url: http://www.runninginchina.org/
+    img: /image/runninginchina.ico
+    description: 跑IN中国为您提供查找赛事信息，赛事成绩，赛事照片及跑友的机会;跑IN中国为您提供公益慈善跑信息，帮助您找到自己希望支持的公益组织，为公益慈善跑者提供支持帮助。
+
+  - name: 无忧赛事
+    url: http://51race.com/
+    img: http://51race.com/favicon.ico
+    description: 无忧赛事是中国领先的赛事活动服务平台，专注于各类体育赛事（跑步、骑行为主）的在线发布、报名，以及成绩查询，同时为您提供最新最全的比赛、装备、训练资讯。荤素搭配，常吃不累，您的运动健康第一站。
+
+  - name: 爱燃烧
+    url: http://iranshao.com/
+    img: /image/iranshao.ico
+    description: 爱燃烧，中国领先的耐力运动社区与赛事训练服务技术提供商。专注于为跑步、铁人三项、自行车、徒步及游泳等耐力运动爱好者提供更好的运动体验。
+
+  - name: 野途网
+    url: http://www.wildto.com/
+    img: /image/waldto.ico
+    description: 野途成立于2014年，旗下拥有国内首款自行车、铁三赛事报名的信息系统—野途骑行APP。目前已建立赛事服务、赛事传媒、赛事营销为核心的三大运营体系，成为中国自行车、 铁三赛事信息社交平台。
+
+  - name: 全赛
+    url: https://www.racegood.com/player/#/
+    img: /image/racegood.png
+    description: 全赛（RACEGOOD）赛事服务平台是美骑基于SAAS技术，为赛事运营方和参赛者提供一站式、高效率赛事信息化解决方案的赛事服务平台。
+
+  - name: 体育保
+    url: http://www.insports.tech/
+    img: /image/insports.ico
+    description: 体育运动风险管理平台
+
+  - name: 我要赛
+    url: http://www.51sai.com/
+    img: /image/51sai.ico
+    description: 专业的大众参与性赛事活动报名平台，每年会上线数千场赛事，几乎涵盖了全国主要的跑步、骑行、户外等大众赛事活动信息。
+
+  - name: 中国体育舞蹈联合会赛事报名系统
+    url: http://match.cdsf.org.cn/
+    img: /image/cdsf.png
+    description: 中国体育舞蹈联合会赛事报名系统
+
+  - name: 全民健身信息服务平台
+    url: http://www.js365.org.cn/
+    img: /image/js365.png
+    description: 全民健身信息服务平台

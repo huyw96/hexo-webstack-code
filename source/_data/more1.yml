@@ -1,0 +1,4 @@
+  - name: 场地场次在线预定
+    url: https://ext.dcloud.net.cn/plugin?id=3718
+    img: /image/uniapp2.png
+    description: 在线预定场地示例

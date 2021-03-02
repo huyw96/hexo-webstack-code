@@ -1,0 +1,24 @@
+  - name: Unsplash
+    url: https://unsplash.com/
+    img: https://unsplash.com/favicon-32x32.png
+    description: 免费无版权高清壁纸，摄影照片，设计素材。（英文站）
+	
+  - name: 我图网
+    url: http://www.ooopic.com/
+    img: /image/wotu.png
+    description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
+
+  - name: 懒人图库
+    url: http://www.lanrentuku.com/
+    img: /image/lanrentuku.png
+    description: 懒人图库专注于提供网页素材下载
+
+  - name: WALLPAPER壁纸
+    url: https://wall.alphacoders.com/?lang=Chinese
+    img: /image/wall.ico
+    description: WALLPAPER免费壁纸
+
+  - name: Pixabay
+    url: https://pixabay.com/zh/
+    img: https://pixabay.com/favicon.ico
+    description: 免费高清无版权照片、插画、矢量图和视频。

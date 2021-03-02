@@ -1,0 +1,29 @@
+  - name: uni-app保持登录状态
+    url: https://blog.csdn.net/u014321120/article/details/105104781
+    img: https://blog.csdn.net/favicon.ico
+    description: uni-app相关
+	
+  - name: vue影院推荐选座功能
+    url: https://juejin.cn/post/6844903666382553102
+    img: /image/juejin.png
+    description: vue相关
+
+  - name: 小程序在线选座上
+    url: https://www.jianshu.com/p/cf8388d4eceb
+    img: https://www.jianshu.com/favicon.ico
+    description: 小程序相关
+	
+  - name: 小程序在线选座中
+    url: https://www.jianshu.com/p/5685a6c0926f
+    img: https://www.jianshu.com/favicon.ico
+    description: 小程序相关
+
+  - name: 小程序在线选座下
+    url: https://www.jianshu.com/p/464a29870d7a
+    img: https://www.jianshu.com/favicon.ico
+    description: 小程序相关
+
+  - name: 小程序地图的应用
+    url: https://blog.csdn.net/qq_40665861/article/details/105240285
+    img: https://blog.csdn.net/favicon.ico
+    description: 小程序地图相关

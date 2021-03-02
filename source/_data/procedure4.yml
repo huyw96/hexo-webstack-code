@@ -1,0 +1,9 @@
+  - name: pythonlibs
+    url: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+    img: /image/python.ico
+    description: python第三方库
+	
+  - name: 在线LaTex公式编辑器
+    url: https://www.codecogs.com/latex/eqneditor.php?lang=zh-cn
+    img: /image/python.ico
+    description: HTML LaTeX 公式编辑器可以生成图形公式 (gif, png, swf, pdf, emf). 可以生成嵌入到HTML网站、论坛或博客的公式代码. 图片也可以在其他应用程序中使用

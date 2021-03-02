@@ -1,0 +1,19 @@
+  - name: 在线PS软件
+    url: https://www.uupoop.com/
+    img: /image/uupoop.ico
+    description: 绿色免安装Photoshop，专业图片处理工具。（支持PSD、Sketch、RAW文件）
+	
+  - name: 智图
+    url: https://zhitu.isux.us/
+    img: /image/zhitu.ico
+    description: 腾讯出品，在线图片压缩和格式转换。(png, jpeg, gif, webp)
+
+  - name: iLoveIMG
+    url: https://www.iloveimg.com/zh-cn/
+    img: https://www.iloveimg.com/img/favicons-img/favicon-16x16.png
+    description: 图像在线编辑工具箱，压缩、裁剪、旋转、加水印、调尺寸、转换格式等。
+
+  - name: tinypng
+    url: https://tinypng.com/
+    img: /image/tinypng.png
+    description: Optimize your images with a perfect balance in quality and file size.

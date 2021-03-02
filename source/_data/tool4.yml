@@ -1,0 +1,24 @@
+  - name: 百度地图开发平台
+    url: http://lbsyun.baidu.com/
+    img: http://lbsyun.baidu.com/favicon.ico
+    description: 百度地图开放平台是面向广大政府、企业、互联网等开发者开放地图服务的平台。
+	
+  - name: 高德地图开发平台
+    url: https://developer.amap.com/
+    img: /image/gaode.ico
+    description: 高德是中国领先的数字地图内容、导航和位置服务解决方案提供商。拥有导航电子地图甲级测绘资质、测绘航空摄影甲级资质和互联网地图服务甲级测绘资质“三甲”资质，其优质的电子地图数据库成为公司的核心竞争力。
+	
+  - name: 腾讯位置服务
+    url: https://lbs.qq.com/
+    img: /image/tx.jpg
+    description: 腾讯地图开放平台为各类应用厂商和开发者提供基于腾讯地图的地理位置服务和解决方案;有针对Web应用的JavaScript API, 适合手机端Native APP的各种SDK, WebService接口和...
+	
+  - name: 拾取坐标系统
+    url: http://api.map.baidu.com/lbsapi/getpoint/index.html
+    img: http://lbsyun.baidu.com/favicon.ico
+    description: 百度地图坐标拾取系统
+	
+  - name: 地图云平台
+    url: http://www.favxu.com/
+    img: /image/web.png
+    description: http://www.favxu.com/

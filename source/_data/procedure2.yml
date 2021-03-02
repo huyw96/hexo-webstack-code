@@ -1,0 +1,14 @@
+  - name: Dcloud
+    url: https://dcloud.io/
+    img: https://www.dcloud.io/favicon.ico
+    description: DCloud.io面向开发者分别推出了开发工具HBuilder、多端开发框架uni-app、手机强化引擎5+ Runtime、跨平台前端框架mui、应用发行产品流应用，通过系列产品对HTML5的强化支持，使得HTML5能达到原生的功能和体验，同时在发行上更优于原生应用。
+
+  - name: Dcloud插件市场
+    url: https://ext.dcloud.net.cn/
+    img: /image/dcloud.ico
+    description:  Dcloud uni-app插件市场
+
+  - name: uni统计
+    url: https://tongji.dcloud.net.cn/
+    img: /image/dcloud.ico
+    description: uni-app统计

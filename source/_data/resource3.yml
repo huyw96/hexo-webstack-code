@@ -1,0 +1,9 @@
+  - name: 网易云课堂
+    url: https://study.163.com/
+    img: /image/study163.png
+    description: 网易云课堂，你的系统化学习平台
+	
+  - name:   蓝桥云课
+    url: https://www.lanqiao.cn/courses/
+    img: /image/lanqiao.png
+    description: 	蓝桥云课在线学习平台

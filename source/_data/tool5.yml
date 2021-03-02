@@ -1,0 +1,9 @@
+  - name: 西瓜播放器
+    url: https://v2.h5player.bytedance.com/
+    img: /image/player.png
+    description: 应用于web端的播放器api
+	
+  - name: 行为验证码
+    url: https://www.oschina.net/p/anji-plus-captcha
+    img: /image/anji.png
+    description: 行为验证码（滑动拼图、点选文字），前后端（java）交互，包含 h5/flutter/uni-app 的源码和实现。
