@@ -22,3 +22,8 @@
     url: https://pixabay.com/zh/
     img: https://pixabay.com/favicon.ico
     description: 免费高清无版权照片、插画、矢量图和视频。
+
+  - name: wallhaven
+    url: https://wallhaven.cc/
+    img: https://wallhaven.cc/favicon.ico
+    description: 在线壁纸
